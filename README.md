@@ -1,2 +1,2 @@
 # minesweaper
-Minesweaper in C++
+Minesweaper in Python
